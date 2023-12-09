@@ -1,5 +1,5 @@
 ![I'm a FrontEnd Developer](https://img-b.udemycdn.com/course/750x422/4925142_c0ab.jpg)
-### Hi there 👋, I'm Parvez Mosharaf
+# Hi there 👋, I'm Parvez Mosharaf
 #### I'm a FrontEnd Developer
 
 Hello there! I'm an enthusiastic and aspiring web developer eager to embark on an exciting journey in the world of coding and web development. With a deep passion for creating websites and a thirst for knowledge, I am dedicated to honing my skills and expanding my expertise in this dynamic field.
